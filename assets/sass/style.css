@@ -4202,7 +4202,7 @@ Responsive Menu Css
   color: var(--text-heading-color);
   width: 25px;
   height: 31px;
-  top: 34px;
+  top: 12px;
   padding: 0;
   margin-right: 42px;
   transition: all 0s ease-out 0s;
@@ -4589,7 +4589,7 @@ Banner One CSS
 .banner__one-image::after {
   content: "";
   position: absolute;
-  background-image: url("../img/shape/banner-bg.png");
+  background-image: url("shape/banner-bg.png");
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
@@ -11807,7 +11807,7 @@ Page Banner CSS
 .page__banner::after {
   content: "";
   position: absolute;
-  background-image: url("../img/shape/page-banner-bg.png");
+  background-image: url("shape/page-banner-bg.png");
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
